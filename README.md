@@ -16,8 +16,9 @@ Cinematic toolkit for Black Ops III theater, running inside the game under the B
 
 ## Install
 
-1. Download `T7Studio-<version>.zip` from [Releases](../../releases/latest) and unzip it.
-2. Run `T7Studio.exe`. It checks Black Ops III (Steam), the supported game build and the BOIII client, and fixes what it can.
-3. Press **PLAY**.
+1. Download `T7Studio-<version>.zip` from [Releases](../../releases/latest).
+2. Unzip it into your Black Ops III folder, next to `BlackOps3.exe`. Want it on the desktop? Make a shortcut.
+3. Run `T7Studio.exe`. It checks the game build and the BOIII client, and fixes what it can.
+4. Press **PLAY**.
 
 Updates come through the launcher.
